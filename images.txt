@@ -1,0 +1,1 @@
+﻿11_Garces.png,12_Garces.png,14_Greene.png,18_Hidalgo.png,19_Hurtubia.png,2_Alonso.png,20_Iturriaga.png,21_Iturriaga.png,23_Moris.png,25_Moris.png,26_Ojeda.png,27_Palmarola.png,31_Quintana.png,32_Quintanilla.png,34_Rosas.png,36_Saravia.png,37_Torrent.png,4_Vera.png,4_Vera.png,40_Ugarte.png,41_Ugarte.png,42_Vasquez.png,8_Encinas.png,9_Forray.png,empty.png
